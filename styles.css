@@ -1,0 +1,17 @@
+body {
+  background-color: powderblue;
+}
+h5 {
+  text-shadow: 2px 2px;
+  color:#61210B;
+}
+p {
+  color: #806517;
+}
+
+
+@media screen and (min-width: 480px) {
+  p {
+    color:#8C001A;
+  }
+}
